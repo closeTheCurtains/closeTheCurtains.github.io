@@ -1,4 +1,4 @@
-baseURL = "http://closeTheCurtauns.github.io/"
+baseURL = "https://closeTheCurtauns.github.io/"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"
